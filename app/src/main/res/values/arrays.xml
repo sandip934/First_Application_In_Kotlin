@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="colours" />
+    <string-array name="names" />
+    <string-array name="numbers" />
+    <string-array name="roll_numbers" />
+</resources>

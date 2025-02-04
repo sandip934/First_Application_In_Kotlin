@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">First Application In Kotlin</string>
+    <string name="user_name" />
+    <string name="welcome_message" />
+    <string name="welcome" />
+    <string name="login" />
+</resources>
